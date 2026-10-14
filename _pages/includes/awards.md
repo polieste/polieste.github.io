@@ -1,10 +1,7 @@
-# 🎖 Awards
-- *2023* CEMSE Dean's List Award, KAUST
-- *2022* Hornbill Elite Programme
-- *2022* SIGIR Student Travel Grant
-- *2022* CEMSE Dean's List Award, KAUST
-- *2021* Outstanding Graduate, Beijing
-- *2020* Scientific Research Award, Peking University
-- *2019-2020* National Scholarship, Peking University
-- *2019-2020* Merit Student, Peking University
-- *2017-2018* National Scholarship, Wuhan University
+# 🎖 Awards & Activities
+- *2026* Best Video Browser System Award, MMM 2026 (Fusionista2.0)
+- *2024* Runner-up, SoICT Hackathon 2024 (Vietnamese legal-document retrieval)
+- *2023, 2024* Consolation Prizes, Ho Chi Minh City AI Challenge
+- *2023* Top 4, SoICT Hackathon 2023 (routing optimization track)
+- *2022* Outstanding Student in Volunteer Work, UIT-VNU
+- *2021 - 2022* Vice President, UIT-VNU Taekwondo Club

@@ -1,12 +1,9 @@
 # 🔥 News
-- *2026.2*: 🎉 Very honored to receive the Rising Star of NLP award at MBZUAI’s 5th anniversary celebration. Our lab member, Lang Gao, also won the Outstanding Research Contribution Award (Student Category).
-- *2026.1*: 2 papers accepted by *ICLR*. Checkout: [LLM Reasoning Bound](https://arxiv.org/abs/2509.21199)
-- *2025.12*: 🎉 Received the Amazon Research Award 2025 (USD 100,000)
-- *2025.11*: 1 paper accepted by *AAAI*. Checkout: [Embodied Reasoning](https://arxiv.org/pdf/2505.16517)
-- *2025.9*: 2 paper accepted by *NeurIPS* Checkout: [Agentic Reasoning](https://arxiv.org/pdf/2509.26062?)
-- *2025.8*: 4 paper accepted by *EMNLP* and 2 papers by *EMNLP findings*. Checkout: [Fake News Detection](https://aclanthology.org/2025.emnlp-main.619.pdf), [Fake News Simulation](https://aclanthology.org/2025.emnlp-main.1330/)
-- *2025.6*: 1 paper accepted by *ACM MM*. Checkout: [Personalized LLM](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qDDj9nkAAAAJ&citation_for_view=qDDj9nkAAAAJ:d1gkVwhDpl0C)
-- *2025.5*:  5 papers accepted by *ACL* and 5 papers accepted by *ACL findings*. Checkout: [Interpretable Jailbreak Defense](https://aclanthology.org/2025.acl-long.1233.pdf)
-- *2025.4*: Received the Google Cloud Research Credits Program (USD 5,000)
-
-
+- *2026.10*: Wrapped up my research visit at TU Darmstadt and submitted a manuscript on how LLMs recognize and time social cues in mental health counseling to ARR (October 2026 cycle).
+- *2026*: 🎉 *Imitation Game 2.0* accepted at **AAAI 2027**.
+- *2026*: 🎉 *TerraBench* accepted at **NeurIPS 2026**.
+- *2026.5*: Started a research visit at **TU Darmstadt** (Germany), working with Prof. Iryna Gurevych and Dr. Hiba Arnaout.
+- *2026*: Our SemEval-2026 Task 2 system paper *VAP-GameController* will appear at the **ACL 2026** workshop.
+- *2026.1*: 🏆 *Fusionista2.0* received the **Best Video Browser System Award** at **MMM 2026**.
+- *2025*: 🎉 *Reinforce Trustworthiness in Multimodal Emotional Support System* accepted at **AAAI 2026** as an **oral presentation**.
+- *2025*: Started my Master's in NLP at **MBZUAI** with a full-tuition scholarship.

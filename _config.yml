@@ -6,25 +6,20 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiuying Chen"
-description              : " "
-repository               : "iriscxy/iriscxy.github.io"
+title                    : "Huy M. Le"
+description              : "Master's student in NLP at MBZUAI, working on AI for mental health."
+repository               : "polieste/polieste.github.io"
 google_scholar_stats_use_cdn : true
-
-
-
-
 
 # Site Author
 author:
-  name             : "Xiuying Chen"
-  avatar           : "images/android-chrome-512x512.png"
-  # bio              : "KAUST"
-  location         : "UAE"
-  employer         :
+  name             : "Huy M. Le"
+  avatar           : "images/avatar.jpg"
+  location         : "Abu Dhabi, UAE"
+  employer         : "MBZUAI"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=COUnAF4AAAAJ&hl=en"
-  email            : "xiuying.chen@mbzuai.ac.ae"
+  googlescholar    : "https://scholar.google.com/citations?user=LtnqkXYAAAAJ&hl=en"
+  email            : "HuyM.Le@mbzuai.ac.ae"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -33,7 +28,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "iriscxy"
+  github           : "polieste"
+  linkedin         : "le-nguyen-minh-huy"
   google_plus      :
   keybase          :
   instagram        :
@@ -82,7 +78,7 @@ exclude:
   - tmp
   - vendor
   - google_scholar_crawler
-  - github_myprofile_updater
+  - run_server.sh
 keep_files:
   - .git
   - .svn
@@ -128,7 +124,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Dubai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

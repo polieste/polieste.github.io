@@ -1,3 +1,7 @@
 _site/
+.jekyll-cache/
+.sass-cache/
+.idea/
+.vscode/
 push.sh
 .DS_Store

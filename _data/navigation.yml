@@ -3,31 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-
-
   - title: "News"
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-recent-publications "
+    url: "/#-publications"
 
-  # - title: "Awards"
-  #   url: "/#-awards"
+  - title: "Education"
+    url: "/#-education"
 
-  # - title: "Internships"
-  #   url: "/#-internships"
+  - title: "Experience"
+    url: "/#-experience"
 
-
-
-  - title: "HALO Lab"
-    url: "/#-halo-lab"
-
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks-and-tutorials"
-
-  - title: "Services"
-    url: "/#-services"
-
-  - title: "Miscellaneous"
-    url: "/#-miscellaneous"
+  - title: "Awards"
+    url: "/#-awards--activities"
