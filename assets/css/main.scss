@@ -107,3 +107,15 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+/* Fixed-width date column so the ':' after each date lines up within a section */
+#-news + ul > li > em:first-child,
+#-education + ul > li > em:first-child,
+#-experience ~ ul > li > em:first-child,
+#-awards--activities + ul > li > em:first-child {
+    display: inline-block;
+    font-variant-numeric: tabular-nums;
+}
+#-news + ul > li > em:first-child { min-width: 7ch; }
+#-education + ul > li > em:first-child { min-width: 13ch; }
+#-experience ~ ul > li > em:first-child { min-width: 15ch; }
+#-awards--activities + ul > li > em:first-child { min-width: 10ch; }
