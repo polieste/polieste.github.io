@@ -19,12 +19,12 @@ Page content lives in `_pages/includes/`:
 
 Profile info shown in the sidebar (name, avatar, email, links) is set in `_config.yml`; the top menu is in `_data/navigation.yml`.
 
-## Citation counts
+## Citation count
 
-The `Get Citation Data` workflow (`.github/workflows/google_scholar_crawler.yaml`) crawls Google Scholar daily and pushes the results to the `google-scholar-stats` branch. The page reads that data to show the total-citation badge and per-paper counts. To show a paper's count, add:
+The total-citation badge in the intro reads `gs_data_shieldsio.json` from the `google-scholar-stats` branch. Google Scholar blocks GitHub Actions runners, so refresh it from your own machine:
 
-```html
-<span class='show_paper_citations' data='LtnqkXYAAAAJ:PAPER_ID'></span>
+```bash
+bash google_scholar_crawler/update_stats.sh
 ```
 
 ## Local preview
